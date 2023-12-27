@@ -1,4 +1,4 @@
-# SQL Operations and Database Normalization in Jupyter Notebooks
+### SQL Operations and Database Normalization in Jupyter Notebooks
 
 This repository encompasses all SQL codes and queries executed in Jupyter Notebook. 
 It covers a diverse range of areas, including Database Normalization for First Normal Form (1NF),
